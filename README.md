@@ -1,2 +1,3 @@
-# Python_Tkinter
+# School Management system
+
 GUI app project
